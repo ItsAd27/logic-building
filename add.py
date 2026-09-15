@@ -31,7 +31,8 @@ l = [1, 2,5 ,7]
 
 l[2] = 53
 l.append(99)
-l.append(45)
+l.append()
 for i in range(0, len(l)):
     print(l[i])
+
 

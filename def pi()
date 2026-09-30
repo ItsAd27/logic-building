@@ -1,0 +1,12 @@
+def pi():
+    return 3.14
+pi=pi()
+prnit( pi())
+
+ def add()
+    return a+b
+def name (name="student"):
+   print("hello,name")
+
+name()
+ 
